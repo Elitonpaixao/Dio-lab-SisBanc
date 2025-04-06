@@ -2,7 +2,7 @@
 
 Este é um projeto desenvolvido como parte do **Bootcamp Suzano Python Developer** da [DIO](https://www.dio.me/), voltado para iniciantes em programação. O objetivo é aplicar os fundamentos da linguagem Python construindo um sistema bancário simples, executado via terminal.
 
-🔗 Repositório oficial: [github.com/Kelly-coda/SisBanc](https://github.com/Kelly-coda/SisBanc)
+🔗 Repositório oficial: [github.com/Elitonpaixao/SisBanc](https://github.com/Elitonpaixao/Dio-lab-SisBanc)
 
 ---
 
@@ -29,7 +29,7 @@ O sistema permite ao usuário:
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/Kelly-coda/SisBanc.git
+git clone https://github.com/Elitonpaixao/Dio-lab-SisBanc.git
 ```
 
 2. Acesse o diretório do projeto:
@@ -58,9 +58,9 @@ Durante o desenvolvimento deste projeto, foram praticados:
 ## 👤 Autor
 
 **Eliton Paixão**  
-📍 Fortaleza - CE  
+📍 Maracanaú - CE  
 🔗 [LinkedIn](https://www.linkedin.com/in/eliton-paixao)  
-📂 [GitHub](https://github.com/Kelly-coda)  
+📂 [GitHub](https://github.com/Elitonpaixao)  
 
 ---
 
